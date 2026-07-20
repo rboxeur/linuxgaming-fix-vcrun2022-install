@@ -1,7 +1,7 @@
 # linuxgaming-fix-vcrun2022-install
 
 ## About
-This [repository](https://github.com/rboxeur/linuxgaming-fix-vcrun2022-install) provides an alternative o install Visual C++ 2015-2055. Wine release could sometimes break its installation (bug regression and so on)
+This [repository](https://github.com/rboxeur/linuxgaming-fix-vcrun2022-install) provides an alternative to install Visual C++ 2015-2022. Wine release could sometimes break its installation (bug regression and so on)
 
 ## How to proceed
 

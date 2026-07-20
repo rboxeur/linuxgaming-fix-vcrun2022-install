@@ -27,6 +27,6 @@ cp -af x86/dlls/* /path/to/drive_c/windows/syswow64/
 or if your WINEPREFIX environment variable is already set then
 
 ```bash
-cp -af x64/dlls/* ${WINEPREFIX}/drive_c/windows/system32
+cp -af x64/dlls/* ${WINEPREFIX}/drive_c/windows/system32/
 cp -af x86/dlls/* ${WINEPREFIX}/drive_c/windows/syswow64/
 ```
